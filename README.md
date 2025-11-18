@@ -52,7 +52,7 @@ Ever had a long ChatGPT conversation with 100+ messages and struggled to find th
 1. **Download the extension files:**
    ```bash
    git clone https://github.com/yourusername/ChatNavigator.git
-   cd chatgpt-navigator
+   cd ChatNavigator
    ```
 
 
