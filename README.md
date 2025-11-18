@@ -341,10 +341,10 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Rushikesh
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Rushikesh Bhabad](https://github.com/RushikeshBhabad)
+- Email: bhabadrushikesh2005@gmail.com
 
 ---
 
