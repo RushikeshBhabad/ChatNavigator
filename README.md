@@ -51,22 +51,19 @@ Ever had a long ChatGPT conversation with 100+ messages and struggled to find th
 
 1. **Download the extension files:**
    ```bash
-   git clone https://github.com/yourusername/chatgpt-navigator.git
+   git clone https://github.com/yourusername/ChatNavigator.git
    cd chatgpt-navigator
    ```
 
-2. **Create icon files** (or use placeholders for testing):
-   - Create 3 PNG images: `icon16.png`, `icon48.png`, `icon128.png`
-   - Or download free icons from [Flaticon](https://www.flaticon.com)
 
-3. **Load in Chrome:**
+2. **Load in Chrome:**
    - Open Chrome and navigate to `chrome://extensions/`
    - Enable **Developer mode** (toggle in top-right corner)
    - Click **"Load unpacked"**
    - Select the `chatgpt-navigator` folder
    - ✅ Extension installed!
 
-4. **Test it:**
+3. **Test it:**
    - Go to [ChatGPT](https://chat.openai.com)
    - Start chatting
    - See the sidebar appear on the right! 🎉
